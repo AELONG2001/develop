@@ -1,5 +1,6 @@
 .app-heading {
-    font-size: 32px;
-    color: green;
-    text-align: center;
+    font-size: 16px;
+    color: purple;
+    background-color: green;
+    text-align: right;
 }
