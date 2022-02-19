@@ -1,4 +1,5 @@
 .app-heading {
+    display: block;
     font-size: 16px;
     color: purple;
     background-color: green;
